@@ -1,225 +1,215 @@
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    JUGAL LOTWALA                            -->
+<!--              Software Developer · India                     -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<br>
-
-# JUGAL LOTWALA
-
-### `FULL-STACK DEVELOPER` · `AI ENTHUSIAST` · `SOFTWARE ENGINEER`
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=JUGAL%20LOTWALA&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Software%20Developer%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20AI%20Explorer&descAlignY=62&descSize=17" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Building+useful+things+for+the+web.;ASP.NET+%2B+Angular+%2B+Azure;Exploring+AI+%26+LLMs+%F0%9F%A4%96;Turning+ideas+into+working+software+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3500&pause=1000&color=8AB4F8&center=true&vCenter=true&width=560&lines=%E2%9E%9C+Building+modern+web+applications;%E2%9E%9C+ASP.NET+Core+%7C+Angular+%7C+Azure;%E2%9E%9C+Exploring+LLMs%2C+RAG+%26+AI+agents;%E2%9E%9C+Turning+ideas+into+real+products" />
 
 <br>
 
-[LinkedIn](https://linkedin.com/in/jugal-lotwala/) · [GitHub](https://github.com/jugal-dev15) · [Email](mailto:jugallotwala@gmail.com)
-
-<br>
+<a href="https://linkedin.com/in/jugal-lotwala/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+<a href="https://github.com/jugal-dev15"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
+<a href="mailto:jugallotwala@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
----
+<br>
 
-## Hey, I'm Jugal 👋
+<!-- ───────────────────  ABOUT  ─────────────────── -->
 
-I'm a **Full-Stack Developer** from India 🇮🇳 who enjoys building modern web applications, backend systems, and experimenting with AI-powered features.
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="28" />
+  &nbsp;Hey, I'm Jugal
+</h2>
 
-My main stack is **C#, ASP.NET Core, Angular, TypeScript, and Azure**.
-
-Lately, I've been exploring how **LLMs, RAG, vector search, and AI agents** can be integrated into real-world applications.
-
-> Build it. Break it. Fix it. Ship it. 🚀
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,python" />
-
-<br><br>
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,tailwind" />
-
-<br><br>
-
-### AI & Intelligent Apps
-
-<img src="https://skillicons.dev/icons?i=python" />
+<p align="center">
+  <em>Software Developer · India 🇮🇳 · Building things for the web</em>
+</p>
 
 <br>
 
-`Azure OpenAI` · `LLMs` · `RAG` · `LangChain` · `AI Agents` · `Embeddings` · `Vector Search`
+<p align="center">
+I'm a <b>Software Developer</b> who enjoys building modern web apps, backend systems, and playing with AI features.<br>
+My daily stack is <b>C# · ASP.NET Core · Angular · TypeScript · Azure</b>.<br>
+Lately I've been exploring how <b>LLMs, RAG, and vector search</b> fit into real products.
+</p>
+
+<br>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Build%20it.%20Break%20it.%20Fix%20it.%20Ship%20it.&author=Jugal" />
+</div>
+
+<br>
+
+<!-- ───────────────────  TECH STACK  ─────────────────── -->
+
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" />
+  &nbsp;My Toolkit
+</h2>
+
+<br>
+
+<div align="center">
+
+<h4>⚙️ &nbsp;Languages & Backend</h4>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,python,ts,js" />
 
 <br><br>
 
-### Database & Cloud
+<h4>🎨 &nbsp;Frontend</h4>
+<img src="https://skillicons.dev/icons?i=angular,html,css,tailwind" />
 
+<br><br>
+
+<h4>🗄️ &nbsp;Data & Cloud</h4>
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,azure,docker" />
 
 <br><br>
 
-### Tools
-
+<h4>🧰 &nbsp;Tools</h4>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+
+<br><br>
+
+<h4>🤖 &nbsp;AI Stack</h4>
+
+<img src="https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/LLMs-4B0082?style=flat-square" />
+<img src="https://img.shields.io/badge/RAG-8A2BE2?style=flat-square" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/AI_Agents-FF6B6B?style=flat-square" />
+<img src="https://img.shields.io/badge/Vector_Search-2E8B57?style=flat-square" />
 
 </div>
 
----
+<br>
 
-## 🚀 What I Build
+<!-- ───────────────────  WHAT I DO  ─────────────────── -->
 
-<table>
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="28" />
+  &nbsp;What I Do
+</h2>
+
+<br>
+
+<table align="center" width="100%">
 <tr>
+<td width="50%" align="center" valign="top">
 
-<td width="50%" valign="top">
+<br>
 
-### 🌐 Full-Stack Applications
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20showing%20Europe-Africa.png" width="42" />
 
-Building complete web applications from frontend to backend.
+### Full-Stack Development
 
-* ASP.NET Core APIs
-* Angular applications
-* Authentication & authorization
-* Database-driven systems
-* Clean Architecture
+<sub>End-to-end web apps from DB to UI</sub>
 
-</td>
+<br>
 
-<td width="50%" valign="top">
+`ASP.NET Core` &nbsp; `Angular` &nbsp; `REST APIs`<br>
+`Auth` &nbsp; `Clean Architecture`
 
-### 🤖 AI-Powered Applications
-
-Exploring practical ways to bring AI into software products.
-
-* LLM integrations
-* RAG pipelines
-* AI chatbots
-* Document intelligence
-* Embeddings
-* Vector search
-* AI agents
+<br>
 
 </td>
+<td width="50%" align="center" valign="top">
 
+<br>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="42" />
+
+### AI Integration
+
+<sub>Practical AI inside real products</sub>
+
+<br>
+
+`LLMs` &nbsp; `RAG` &nbsp; `Chatbots`<br>
+`Embeddings` &nbsp; `Vector Search`
+
+<br>
+
+</td>
 </tr>
-
 <tr>
+<td width="50%" align="center" valign="top">
 
-<td width="50%" valign="top">
+<br>
 
-### ☁️ Cloud & Backend
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" width="42" />
 
-Building applications that are ready to move beyond `localhost`.
+### Cloud & Backend
 
-* Azure
-* Docker
-* REST APIs
-* Microservices
-* CI/CD
-* Event-driven systems
+<sub>Ready to move past localhost</sub>
 
-</td>
+<br>
 
-<td width="50%" valign="top">
+`Azure` &nbsp; `Docker` &nbsp; `CI/CD`<br>
+`Microservices` &nbsp; `Event-Driven`
 
-### 🧩 Problem Solving
-
-I enjoy taking complicated problems and turning them into simple, maintainable systems.
-
-**Idea → Architecture → Code → Deploy → Improve**
+<br>
 
 </td>
+<td width="50%" align="center" valign="top">
 
+<br>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Puzzle%20Piece.png" width="42" />
+
+### Problem Solving
+
+<sub>Complex → simple & maintainable</sub>
+
+<br>
+
+**Idea → Code → Deploy → Improve**
+
+<br>
+
+</td>
 </tr>
 </table>
 
----
-
-## 🧠 AI Corner
-
-I'm not an AI Engineer — I'm a **developer exploring AI** and learning how to use it effectively in real applications.
-
-Currently interested in:
-
-```text
-LLMs
- ├── Prompt Engineering
- ├── Structured Outputs
- └── Tool Calling
-
-RAG
- ├── Embeddings
- ├── Chunking
- ├── Retrieval
- └── Vector Search
-
-AI Applications
- ├── Chatbots
- ├── Document AI
- ├── AI Assistants
- └── Intelligent Automation
-```
-
-The goal isn't to add AI just because it's trendy.
-
-**The goal is to make software smarter and more useful.**
-
----
-
-## 📚 Currently Learning
-
-`Azure AI` · `RAG` · `AI Agents` · `Vector Databases` · `System Design` · `Microservices`
-
 <br>
 
----
+<!-- ───────────────────  AI CORNER  ─────────────────── -->
 
-## 🎯 2026
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Brain/3D/brain_3d.png" width="28" />
+  &nbsp;AI Corner
+</h2>
 
-* 🚀 Build and launch an AI-powered SaaS product
-* ☁️ Go deeper into Azure & cloud architecture
-* 🤖 Build more practical AI integrations
-* 🧠 Improve system design & backend architecture
-* 🌱 Contribute to open source
-* ⚡ Ship more, overthink less
-
----
-
-## ☕ Beyond Code
+<br>
 
 <div align="center">
-
-**Coffee → Code → Debug → Repeat**
-
-<br>
-
-I like building things, learning new technologies,
-and occasionally wondering why the code worked yesterday.
-
-<br>
-
-`Made with ☕ and too many tabs.`
-
+<em>I'm not an AI Engineer — I'm a developer exploring AI and learning how to use it in real applications.</em>
 </div>
 
----
-
-<div align="center">
-
 <br>
 
-### Let's build something interesting.
-
-[LinkedIn](https://linkedin.com/in/jugal-lotwala/) · [GitHub](https://github.com/jugal-dev15) · [Email](mailto:jugallotwala@gmail.com)
-
-<br>
-
-`© Jugal Lotwala · India 🇮🇳`
-
-</div>
+```mermaid
+mindmap
+  root((AI))
+    LLMs
+      Prompt Engineering
+      Structured Outputs
+      Tool Calling
+    RAG
+      Embeddings
+      Chunking
+      Retrieval
+      Vector Search
+    Applications
+      Chatbots
+      Document AI
+      AI Assistants
+      Automation
