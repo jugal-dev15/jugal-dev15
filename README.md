@@ -107,7 +107,7 @@ Lately I've been exploring how <b>LLMs, RAG, and vector search</b> fit into real
 
 <br>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20showing%20Europe-Africa.png" width="42" />
+<img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@latest/assets/72x72/1f30d.png" width="42" alt="Globe" />
 
 ### Full-Stack Development
 
@@ -163,7 +163,7 @@ Lately I've been exploring how <b>LLMs, RAG, and vector search</b> fit into real
 
 <br>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Puzzle%20Piece.png" width="42" />
+<img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@latest/assets/72x72/1f9e9.png" width="42" alt="Puzzle Piece" />
 
 ### Problem Solving
 
